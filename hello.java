@@ -1,20 +1,11 @@
 public class Hello {
 	public static void main(String[] args) {
 		System.out.println("VS CODE IS AWESOME");
-		greeting("Git");
 	}
 
-	public static void greeting(String[] args) {
-		System.out.println("Bye Bye" + name);
+	public static void message() {
+		System.out.println("Hooray!!! now we are able to contribute in opensource..");
 	}
 
-
-	public static void int sqr(int x) {
-		return x*x;
-	} 
-
-	public static void display() {
-		System.out.println("Hi");
-	}
 }
 
