@@ -7,4 +7,8 @@ public class Hello {
 	public static void greeting(String[] args) {
 		System.out.println("Bye Bye" + name);
 	}
+
+	public static void display() {
+		System.out.println("Hi");
+	}
 }
